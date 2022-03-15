@@ -1,0 +1,12 @@
+version: 1
+imports: []
+schemas:
+  - id: reading-list
+    desc: quick schema to summarize science
+    title: reading-list
+    parent: root
+    children:
+      - pattern: science
+        children:
+          - pattern: '*'
+            template: templates.reading-science
