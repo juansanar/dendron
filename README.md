@@ -1,1 +1,2 @@
-# juansanar second brain/virtual garden powered by @dendronhq
+# juansanar's second brain/virtual garden
+Powered by [dendronhq](https://github.com/dendronhq)
