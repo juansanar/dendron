@@ -2,7 +2,7 @@
 id: vso5rqeq1s9a4kuae43turf
 title: Science
 desc: ''
-updated: 1647416386166
+updated: 1647490996122
 created: 1647328018824
 ---
 
@@ -19,6 +19,7 @@ Subject(s) | Title | Author(s) | Journal | Year | PMID | doi
  #bioinformatics | Urgent need for consistent standards in functional enrichment analysis | K. Wijesooriya ... M. Ziemann | PLOS Computational Biology | 2022 | 35263338 | https://doi.org/10.1371/journal.pcbi.1009935
  #bioinformatics | Guidelines for reliable and reproducible functional enrichment analysis | K. Wijesooriya ... M. Ziemann | bioRxiv | 2021 | NA | https://doi.org/10.1101/2021.09.06.459114
 
+
 ### Read/noted
 
 Subject(s) | Title | Author(s) | Journal | Year | PMID | doi
@@ -30,6 +31,7 @@ Subject(s) | Title | Author(s) | Journal | Year | PMID | doi
 
 Subject(s) | Title | Author(s) | Journal | Year | PMID | doi
  -- | -- | -- | -- | --
+ #cardiovascular | Basic Research Approaches to Evaluate Cardiac Arrhythmia in Heart Failure and Beyond | M.J. Cumberland ... B. Rodriguez, K. Gehmlich | Frontiers in Physiology | 2022 | 35197863 | https://doi.org/10.3389/fphys.2022.806366
 
 ### Read/noted
 
