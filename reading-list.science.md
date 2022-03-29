@@ -20,7 +20,7 @@ Subject(s) | Title | Author(s) | Journal | Year | PMID | doi
  #bioinformatics | Guidelines for reliable and reproducible functional enrichment analysis | K. Wijesooriya ... M. Ziemann | bioRxiv | 2021 | NA | https://doi.org/10.1101/2021.09.06.459114
  #cardiovascular #bioinformatics| Molecular Atlas of Postnatal Mouse Heart Development | V. Talman ... H. Ruskoaho | JAHA | 2018 | 30371266| https://doi.org/10.1161/JAHA.118.010378
  #cardiovascular | Onset of Cardiac Function During Early Mouse Embryogenesis Coincides With Entry of Primitive Erythroblasts Into the Embryo Proper | R.P. Ji ... D. Turnbull | Circulation Research | 2003 | 12574139 | https://doi.org/10.1161/01.RES.0000056532.18710.C0
-
+ #cardiovascular #hemorrhage #ans | Adrenergic C1 neurons monitor arterial blood pressure and determine the sympathetic response to hemorrhage | G.M.P.R. Souza ... S.B.G. Abbott | Cell Reports | 2022 | 35263582 | https://doi.org/10.1016/j.celrep.2022.110480
 
 ### Read/noted
 
