@@ -12,5 +12,7 @@ This is the index for my reading lists. My reading lists consist of the followin
 
 - [[reading-list.science]]
 - Medicine
+- Data Science
+- [[Data visualization | reading-list.dataviz]]
 - Programming
 - Fitness
