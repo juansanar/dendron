@@ -21,6 +21,17 @@ Subject(s) | Title | Author(s) | Journal | Year | PMID | doi
  #cardiovascular #bioinformatics| Molecular Atlas of Postnatal Mouse Heart Development | V. Talman ... H. Ruskoaho | JAHA | 2018 | 30371266| https://doi.org/10.1161/JAHA.118.010378
  #cardiovascular | Onset of Cardiac Function During Early Mouse Embryogenesis Coincides With Entry of Primitive Erythroblasts Into the Embryo Proper | R.P. Ji ... D. Turnbull | Circulation Research | 2003 | 12574139 | https://doi.org/10.1161/01.RES.0000056532.18710.C0
  #cardiovascular #hemorrhage #ans | Adrenergic C1 neurons monitor arterial blood pressure and determine the sympathetic response to hemorrhage | G.M.P.R. Souza ... S.B.G. Abbott | Cell Reports | 2022 | 35263582 | https://doi.org/10.1016/j.celrep.2022.110480
+ #ankyrin #neurodevelopment | Autism-associated ANK2 regulates embryonic neurodevelopment | S. Kawano ... T. Nakasawa | Biochem Biophys Res Commun | 2022 | 35313230 | https://doi.org/10.1016/j.bbrc.2022.03.058
+ #ankyrin #neurological | Ankyrins and neurological disease | S. Stevens ... M. Rashband | Curr Opin Neurobiol | 2021 | 33485190 | https://doi.org/10.1016/j.conb.2021.01.002
+ #cardiovascular #development | Generation of MLC-2v-tdTomato knock-in reporter mouse line | Z. Zhang ... Y.J. Nam | Genesis | 2019 | 30307112 | https://doi.org/10.1002/dvg.23256
+ #cardiovascular #development #embryogenesis | Analysis of cardiac chamber development during mouse embryogenesis using whole mount epifluorescence | Z. Zhang ... Y.J. Nam | JoVe | 2021 | 31058904 | https://doi.org/10.3791/59413
+ #cardiovascular #development #embryogenesis | A Novel Ex vivo Culture Method for the Embryonic Mouse Heart | L. Dyer ... C. Patterson | JoVe | 2013 | 23728379 | https://doi.org/10.3791/50359
+ #cardiovascular #development #embryogenesis | A detailed comparison of mouse and human cardiac development | A. Krishnan ... C.W. Lo | Pediatr Res | 2014 | 25167202 | https://doi.org/10.1038/pr.2014.128
+ #cardiovascular #development | Human Cardiac Development in the First Trimester | P. Dhanantwari ... C.W. Lo | Circulation | 2009 | 19635979 | https://doi.org/10.1161/circulationaha.108.796698
+ #cardiovascular #cardiology #cardiogenetics #pregnancy #arrhythmia | Caring for the pregnant woman with an inherited arrhythmia syndrome | T. Roston ... A. Khan | Heart Rhythm | 2020 | 31400520 | https://doi.org/10.1016/j.hrthm.2019.08.004
+ #cardiovascular #cardiology #cardiogenetics  #pregnancy #arrhythmia| Pregnancy in Catecholaminergic Polymorphic Ventricular Tachycardia | C. Cheung ... A. Khan | JACC: Clinical Electrophysiology | 2019 | 30898243 | https://doi.org/10.1016/j.jacep.2018.10.019
+ #cardiovascular #cardiology #cardiogenetics | Beyond the One Gene–One Disease Paradigm: Complex Genetics and Pleiotropy in Inheritable Cardiac Disorders | M. Cerrone ... M. Delmar | Circulation | 2019 |31403841 | https://doi.org/10.1161/circulationaha.118.035954
+
 
 ### Read/noted
 
