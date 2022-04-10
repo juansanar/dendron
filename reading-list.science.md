@@ -2,7 +2,7 @@
 id: vso5rqeq1s9a4kuae43turf
 title: Science
 desc: ''
-updated: 1647644809534
+updated: 1649430376153
 created: 1647328018824
 ---
 
@@ -31,6 +31,8 @@ Subject(s) | Title | Author(s) | Journal | Year | PMID | doi
  #cardiovascular #cardiology #cardiogenetics #pregnancy #arrhythmia | Caring for the pregnant woman with an inherited arrhythmia syndrome | T. Roston ... A. Khan | Heart Rhythm | 2020 | 31400520 | https://doi.org/10.1016/j.hrthm.2019.08.004
  #cardiovascular #cardiology #cardiogenetics  #pregnancy #arrhythmia| Pregnancy in Catecholaminergic Polymorphic Ventricular Tachycardia | C. Cheung ... A. Khan | JACC: Clinical Electrophysiology | 2019 | 30898243 | https://doi.org/10.1016/j.jacep.2018.10.019
  #cardiovascular #cardiology #cardiogenetics | Beyond the One Gene–One Disease Paradigm: Complex Genetics and Pleiotropy in Inheritable Cardiac Disorders | M. Cerrone ... M. Delmar | Circulation | 2019 |31403841 | https://doi.org/10.1161/circulationaha.118.035954
+ #expomodel | A Simple and Reliable Method for Early Pregnancy Detection in Inbred Mice | G.W. Heyene ... R.J. Lipinksi | J Am Assoc Lab Anim Sci | 2015 | 26224435 | |
+ #expmodels | The Cycling and Pregnant Mouse: Gross Anatomy | S.C. Pang ... P.D.A. Lima | The Guide to Investigation of Mouse Pregnancy | 2014 | NA | https://doi.org/10.1016/B978-0-12-394445-0.00001-1
 
 
 ### Read/noted
