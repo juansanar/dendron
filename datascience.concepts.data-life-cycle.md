@@ -2,8 +2,11 @@
 id: r0uq1ceg0jx16ioiya4wc69
 title: Data Life Cycle
 desc: ''
-updated: 1660788880004
+updated: 1660930501309
 created: 1660788663669
+tags:
+    - data-analysis
+    - data-science
 ---
 
 ## The six stages of the data life cycle (Google)
