@@ -2,7 +2,7 @@
 id: dj0n01s6se72qm82q7npoth
 title: High Impact Presentations
 desc: ''
-updated: 1661911433163
+updated: 1661911707442
 created: 1660930370135
 tags:
     - presentation
@@ -155,3 +155,11 @@ Strong presence = Competence + Warmth
     - Modulate your voice
     - Smile longer, enjoy your presentation
     - Speak at a 190 words per minute rate
+1. Follow up with handouts and a survey
+
+## Notes on remote presentations
+
+- Double down in simplicty
+- Ensure people can see your facial expressions (?)
+- Test your equipment/set up
+- Create audience checkpointsm anticpate silence, add extra rehearsal time
