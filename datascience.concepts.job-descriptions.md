@@ -2,7 +2,7 @@
 id: qwanosa3jzomee5rqgyyxgy
 title: Common Job Descriptions
 desc: ''
-updated: 1662401371740
+updated: 1663009840557
 created: 1662400972925
 tags:
     - data-science
@@ -26,7 +26,7 @@ A data specialist role concentrates on in-depth knowledge of databases. In simil
 
 Other industry-specific specialist positions that you might come across in your data analyst job search include:
 
-- **Marketing analyst** — analyzes market conditions to assess the potential sales of products and services 
+- **Marketing analyst** — analyzes market conditions to assess the potential sales of products and services
 - **HR/payroll analyst** — analyzes payroll data for inefficiencies and errors
 - **Financial analyst** — analyzes financial status by collecting, monitoring, and reviewing data
 - **Risk analyst** — analyzes financial documents, economic conditions, and client data to help companies determine the level of risk involved in making a particular business decision
