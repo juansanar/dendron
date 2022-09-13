@@ -2,7 +2,7 @@
 id: s16wa5oyhmeqz7epvhan0wh
 title: Data Modeling
 desc: ''
-updated: 1663051179990
+updated: 1663109388906
 created: 1663050840808
 tags:
     - data-science
@@ -26,7 +26,7 @@ Data models help keep data consistent and enable people to map out how data is o
 
 1. **Physical data modeling** depicts how a database operates. A physical data model defines all entities and attributes used; for example, *it includes table names, column names, and data types for the database*.
 
-> More ionfo [here](https://www.1keydata.com/datawarehousing/data-modeling-levels.html)
+> More info [here](https://www.1keydata.com/datawarehousing/data-modeling-levels.html)
 
 # Data Modeling Techniques
 
