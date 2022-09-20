@@ -2,11 +2,11 @@
 id: on3fgrrdtdf7e2ccx3180k9
 title: Data Formats
 desc: ''
-updated: 1663049798865
+updated: 1663526251154
 created: 1663048750768
 ---
 
-![](/assets/images/2022-09-12-23-05-37.png)
+![](/assets/images/2022-09-18-11-37-26.png)
 
 # Qualitative Data
 
