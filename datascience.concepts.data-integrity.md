@@ -2,8 +2,11 @@
 id: fl5cb0v27d0l22wf9kpgdd3
 title: Data Integrity
 desc: ''
-updated: 1663563232631
+updated: 1663828676032
 created: 1663561898969
+tags:
+    - data-science
+    - data-analysis
 ---
 
 # What is data integrity?
