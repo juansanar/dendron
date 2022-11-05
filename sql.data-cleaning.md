@@ -2,8 +2,10 @@
 id: f6upch53s6rniwfjd0za9yq
 title: Data Cleaning Queries with SQL
 desc: ''
-updated: 1667458215023
+updated: 1667639558290
 created: 1667458199169
+tags:
+    - data-cleaning
 ---
 
 # Functions
@@ -21,3 +23,13 @@ created: 1667458199169
     - Example: `CONCAT(attribute1, "_", attribute2)` will lead to `"value in attribute1_value in attribute2"`.
 - `COALESCE`: Returns non-null values in a list.
     - `COALESCE(atribute1, attribute2) AS new_attribute`. If `attribute1` is null, it provides the value from `attribute2`.
+- `CASE`: The `CASE` statement goes through one or more conditions and returns a value as soon as a condition is met.
+    - Form:
+    ```sql
+    SELECT ...
+    CASE
+        WHEN attribute = "value" THEN "new value"
+        ELSE attribute
+        END AS new_attribute
+    FROM ...
+    ```
