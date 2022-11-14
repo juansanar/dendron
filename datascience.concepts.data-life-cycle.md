@@ -2,7 +2,7 @@
 id: r0uq1ceg0jx16ioiya4wc69
 title: Data Life Cycle
 desc: ''
-updated: 1660930501309
+updated: 1667762321784
 created: 1660788663669
 tags:
     - data-analysis
@@ -17,7 +17,7 @@ tags:
 
 1. Manage: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so.
 
-1. Analyze: Use the data to solve problems, make decisions, and support business goals.
+1. [[Analyze | datascience.concepts.data-analysis]]: Use the data to solve problems, make decisions, and support business goals.
 
 1. Archive: Keep relevant data stored for long-term and future reference.
 
