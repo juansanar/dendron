@@ -2,7 +2,7 @@
 id: ktxeb2fg2saktizqu1dm9k1
 title: Data Cleaning
 desc: ''
-updated: 1667639785446
+updated: 1673679520443
 created: 1667639092865
 tags:
     - data-analysis
@@ -36,6 +36,12 @@ tags:
 # Data Cleaning in Spreadsheets
 
 ![](/assets/images/2022-11-05-11-52-08.png)
+
+## Tips for cleaning data in Spreadhseets
+
+- The `CONVERT` function, converts a number from one measurement system to another. For example, CONVERT can translate a table of distances in miles to a table of distances in kilometers or Faranheit to Celsius.
+    - Syntax: `CONVERT(number,from_unit,to_unit)`
+- For more information, go here.
 
 # Data Cleaning Tools
 - [[SQL | sql.data-cleaning]].
