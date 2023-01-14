@@ -2,7 +2,7 @@
 id: atprstctuf668wwzeord76e
 title: Tips to clean data in spreadhseets
 desc: ''
-updated: 1673683463258
+updated: 1673684964699
 created: 1673679546283
 tags:
   - data-cleaning
@@ -79,7 +79,7 @@ To remove "," from numbers, use `REGEXTRACT()`
 
 # Combining Columns
 
-Use the `CONCATENATE()` function.
+Use the `CONCATENATE()` function to append strings (this allows adding spaces `" "` or any other separator or `string`), and use `=CONCAT()` to concatenate two values.
 
 > Columns can also be split using the "Data" menu (Data > Split text to columns). This usees the space (i.,e " ") to split the text into columns.
 
