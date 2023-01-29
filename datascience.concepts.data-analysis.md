@@ -2,7 +2,7 @@
 id: sbcqdmh5q6y6lhtj4e5b2yj
 title: Data Analysis
 desc: ''
-updated: 1667762555046
+updated: 1674976278441
 created: 1667761796437
 tags:
     - data-analysis
@@ -24,4 +24,4 @@ It's the process used to make sense of the data collected. The goal of data anal
     ![](/assets/images/2022-11-06-11-21-48.png)
 - Format and adjust data
 - Get inut from others
-- Trasnforma data
+- Transform data

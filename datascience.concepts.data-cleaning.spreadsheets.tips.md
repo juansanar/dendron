@@ -2,7 +2,7 @@
 id: atprstctuf668wwzeord76e
 title: Tips to clean data in spreadhseets
 desc: ''
-updated: 1673684964699
+updated: 1674977873446
 created: 1673679546283
 tags:
   - data-cleaning
@@ -88,3 +88,12 @@ Use the `CONCATENATE()` function to append strings (this allows adding spaces `"
 Use the `TO_PERCENT()` function.
 
 > [Source](https://support.google.com/docs/answer/3094284?hl=en)
+
+# Handling Strings
+
+- `LEN`: Obtain length of string.
+- `FIND`: Returns the index of a given a character/string.
+- `RIGHT`: Returns all the string values **right** from a given index.
+  - Syntax: `=RIGHT([Column], [index])`
+- `LEFT`: Returns all the string values **left** from a given index.
+  - Syntax: `=LEFT([Column], [index])`

@@ -5,9 +5,9 @@ desc: ''
 updated: 1673679520443
 created: 1667639092865
 tags:
-    - data-analysis
-    - data-science
-    - data-cleaning
+  - data-analysis
+  - data-science
+  - data-cleaning
 ---
 
 # Verification - A checklist approach
@@ -44,5 +44,5 @@ tags:
 - For more information, go here.
 
 # Data Cleaning Tools
-- [[SQL | sql.data-cleaning]].
+- [[SQL|sql.data-cleaning]].
 

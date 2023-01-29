@@ -2,10 +2,11 @@
 id: f6upch53s6rniwfjd0za9yq
 title: Data Cleaning Queries with SQL
 desc: ''
-updated: 1667639558290
+updated: 1674976261208
 created: 1667458199169
 tags:
-    - data-cleaning
+  - data-cleaning
+  - sql
 ---
 
 # Functions
@@ -13,7 +14,7 @@ tags:
 - `SUBSTR()`: Takes an `attribute` and the position of the starting character, and number of characters. 
 - Example: `SUBSTR(country, 1, 2) = 'US'`.
     - This takes the first letter two letters (starts at the first letters, for a total of two letters) of the strings in `country` and evaluates them to 'US'.
-
+- `CONTAINS_SUBSTR()`: Performs a normalized, case-insensitive search to see if a value exists as a substring in an expression. Returns `TRUE` if the value exists, otherwise returns `FALSE`.
 - `TRIM()`: Remove leading, trailing, and repeated spaces in data.
 - `DISTINCT`: Including `DISTINCT` in the `SELECT` statement removes duplicates.
 - `CAST()`: Converts anything from one data type to another.
