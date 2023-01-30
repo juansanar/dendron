@@ -2,7 +2,7 @@
 id: atprstctuf668wwzeord76e
 title: Tips to clean data in spreadhseets
 desc: ''
-updated: 1675063882561
+updated: 1675064258131
 created: 1673679546283
 tags:
   - data-cleaning
@@ -108,6 +108,7 @@ Use the `TO_PERCENT()` function.
 - Limitations:
   - It only returns the first match it finds.
   - It can only return a value from the data to the right; it can't look left.
+    - >You want the column that matches the search key in a VLOOKUP formula to be on the left side of the data. VLOOKUP only looks at data to the right after a match is found. In other words, the index for VLOOKUP indicates columns to the right only. This may require you to move columns around before you use VLOOKUP.
     - Workaround: Copy and paste a column to the left of the data you want to look at. That way, the lookup value is in the leftmost column and the data you want is to the right of it.
   - Failing to lock the reference array can lead to erroneous return values. To lock, use the `$`.
 
