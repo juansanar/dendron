@@ -2,7 +2,7 @@
 id: atprstctuf668wwzeord76e
 title: Tips to clean data in spreadhseets
 desc: ''
-updated: 1675064258131
+updated: 1675537331715
 created: 1673679546283
 tags:
   - data-cleaning
@@ -100,7 +100,7 @@ Use the `TO_PERCENT()` function.
 
 # `VLOOKUP()`
 
-`VLOOKUP()` finds a value in a given column that corresponds to the explcit expression to match within a specified range. Before using `VLOOKUP()` **make sure your data is cleaned/prepared**. Use functions such as `VALUE()`, `CONVERT()` or `TRIM()` to make sure entries are consistent and assigned to their respective data types or formats.
+`VLOOKUP()` finds a value in a given column that corresponds to the explicit expression to match within a specified range. Before using `VLOOKUP()` **make sure your data is cleaned/prepared**. Use functions such as `VALUE()`, `CONVERT()` or `TRIM()` to make sure entries are consistent and assigned to their respective data types or formats.
 
 - Syntax: `=VLOOKUP([value], [range],[column number], TRUE/FALSE)`
   - `FALSE` = match must be exact.
