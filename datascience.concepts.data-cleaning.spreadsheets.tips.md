@@ -2,7 +2,7 @@
 id: atprstctuf668wwzeord76e
 title: Tips to clean data in spreadhseets
 desc: ''
-updated: 1675537331715
+updated: 1675579446466
 created: 1673679546283
 tags:
   - data-cleaning
@@ -134,3 +134,20 @@ Introduced in August 2022 in Google Sheets (and in 2019 in Excel), `XLOKUP()` fu
 
 ### Notes
 If result_range is more than one row or column, then the output will be the entire row/column at the index a match was found in the lookup_range.
+
+# Data Calculations
+
+## `SUMIF()` and `SUMIFS()`
+
+- `SUMIF()`: `=SUMIF(range, criterion, sum_range)`. The first range is where the function will search for the condition that you have set. The criterion is the condition you are applying and the `sum_range` is the range of cells that will be included in the calculation.
+- `SUMIFS()`: `=SUMIFS(sum_range, criteria_range1, criterion1, [criteria_range2, criterion2, ...])`. The square brackets let you know that this is optional. The ellipsis at the end of the statement lets you know that you can have as many repetition of these parameters as needed.
+
+## `COUNTIF()` and `COUNTIFS()`
+
+- `COUNTIF()`: `=COUNTIF(range, criterion)`. Just like SUMIF, you set the range and then the condition that needs to be met.
+- `COUNTIFS()`: ` =COUNTIFS(criteria_range1, criterion1, [criteria_range2, criterion2, ...])`. The `criteria_range` and criterion are in the same order, and you can add more conditions to the end of the function.
+
+# `SUMPRODUCT()`
+
+A function that multiplies `arrays` and returns the sum of those products. An `array` is a collection of values in cells, **not the cells themselves**.
+- Syntax: `=SUMPRODUCT(array1, [array2]...)`.
