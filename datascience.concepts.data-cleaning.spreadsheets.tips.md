@@ -1,8 +1,8 @@
 ---
 id: atprstctuf668wwzeord76e
-title: Tips to clean data in spreadhseets
+title: Tips to clean data in spreadhheets
 desc: ''
-updated: 1675579446466
+updated: 1676188076738
 created: 1673679546283
 tags:
   - data-cleaning
@@ -93,8 +93,8 @@ Use the `TO_PERCENT()` function.
 
 - `LEN()`: Obtain length of string.
 - `FIND()`: Returns the index of a given a character/string. It is case-sensitive.
-- `RIGHT()`: Returns all the string values **right** from a given index.
-  - Syntax: `=RIGHT([Column], [index])`
+- `RIGHT()`: Returns the indicated number characters from the **right** end.
+  - Syntax: `=RIGHT([Column], [number of characters])`
 - `LEFT()`: Returns all the string values **left** from a given index (inclusive)
   - Syntax: `=LEFT([Column], [index])`
 
